@@ -2,15 +2,15 @@
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Lynx"
+title = "Lynx 2"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  # name = "Your name here"
-  # headline = "An awesome person"
+  # name = "Chris Van Dusen"
+  # headline = "An awesome person 2"
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
