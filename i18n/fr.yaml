@@ -42,4 +42,4 @@ link:
 #   home: Home
 
 footer:
-  powered_by: "Propulsé par {{ .Hugo }} &amp; {{ .Lynx }}"
+  powered_by: "FWD2CV"
