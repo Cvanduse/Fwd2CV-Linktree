@@ -3,7 +3,7 @@
 name = "lynx"
 license = "MIT"
 licenselink = "https://github.com/jpanther/lynx/blob/master/LICENSE"
-description = "A links page theme for Hugo built with Tailwind CSS."
+description = "A links page theme for Hugo built with Tailwind CSS. 2"
 
 homepage = "https://github.com/jpanther/lynx/"
 demosite = "https://jpanther.github.io/lynx/"
