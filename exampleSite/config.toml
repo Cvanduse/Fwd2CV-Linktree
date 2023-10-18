@@ -5,7 +5,7 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "Chris Van Dusen"
+  name = "TEST Chris Van Dusen"
   headline = "fwd2cv"
   image = "author.jpg"
   links = [
