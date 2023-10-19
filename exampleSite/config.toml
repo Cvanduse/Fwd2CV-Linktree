@@ -14,6 +14,7 @@ disableKinds = ["taxonomy", "term"]
     { linkedin = "https://www.linkedin.com/in/cvanduse/"},
     { twitter = "https://twitter.com/fwd2cv" },
     { instagram = "https://instagram.com/fwd2cv" },
+{ link = { href = "https://open.spotify.com/user/316uxgvzpdayob4lt57ph4dpzby4", text = "Spotify", icon = "Spotify" } },
     { spotify = "https://open.spotify.com/user/316uxgvzpdayob4lt57ph4dpzby4" },
     #{ font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
   ]
