@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
     { link = { href = "styles/", text = "All the link styles", target = "_self" } },
-    { github = "https://github.com/jpanther/lynx" },
+    { linkedin = "https://www.linkedin.com/in/cvanduse/"},
     { twitter = "https://twitter.com/fwd2cv" },
     { font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
   ]
