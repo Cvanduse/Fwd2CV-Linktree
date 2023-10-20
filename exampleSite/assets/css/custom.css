@@ -7,3 +7,13 @@
     rgba(252, 176, 69, 1) 100%
   );
 }
+
+.link-spotify-player {
+  background: rgb(30, 215,96);
+  background: linear-gradient(
+    90deg,
+    rgba(30, 215, 96, 1) 0%,
+    rgba(30, 215, 96, 1) 50%,
+    rgba(30, 214, 96, 1) 100%
+  );
+}
