@@ -9,6 +9,7 @@ disableKinds = ["taxonomy", "term"]
   headline = "fwd2cv"
   image = "author.jpg"
   links = [
+    { email = "chris@cvandusen.com"},
     { link = { href = "https://d3nbhefp0ez0gn.cloudfront.net/protected/hvZEjdlEUlzAKE/contact_1697210719923.vcard", text = "Contact Info", icon = "github" } },
     #{ link = { href = "styles/", text = "All the link styles", target = "_self" } },
     { linkedin = "https://www.linkedin.com/in/cvanduse/"},
