@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Chris Van Dusen"
-  headline = ""
+  headline = "My Name Is Chris"
   image = "author.jpg"
   links = [
     { email = "mailto:chris@cvandusen.com"},
